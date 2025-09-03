@@ -75,20 +75,22 @@ Follow these steps to set up and run the exporter:
 Simply run the `run.bat` file:
 ```bash
 run.bat
-
+```
 This will open a menu in the command prompt, allowing you to choose between exporting a specific month's data or all records.
 
 On Linux/macOS:
 Grant execute permissions to the script:
 
-Bash
+```Bash
 
 chmod +x run.sh
+```
 Run the script:
 
-Bash
+```Bash
 
 ./run.sh
+```
 This will open a menu in your terminal, providing the same options as the Windows script.
 
 🤝 Contribution
